@@ -1,1 +1,3 @@
-GitHubにアップします
+GitHubにアップしました
+
+developブランチで追加した行
